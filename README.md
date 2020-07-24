@@ -1,8 +1,6 @@
 # civichack2020
 
-## http://civichack.or.kr/?page=idea&mode=view&tno=1
-
-website for civichack 2020
+http://civichack.or.kr/?page=idea&mode=view&tno=1
 
 ## Useful Resources
 "AI 신약개발 중요하지만 국내 빅데이터만으론 제한적"
