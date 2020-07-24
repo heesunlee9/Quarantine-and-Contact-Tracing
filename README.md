@@ -11,3 +11,7 @@ http://www.oda.go.kr/opo/dhis/themaIssueDetail.do?P_CNTNTS_CL_SYSTM_NO=A00060004
 
 에볼라 때 진가 발휘한 '감염병 수리모델' 코로나19 잡는 '레이다' 될까
 http://dongascience.donga.com/news.php?idx=36865
+
+임상데이터 
+https://isaric.tghn.org/COVID-19-Data-Management-Hosting/previous-clinical-data-reports/
+
