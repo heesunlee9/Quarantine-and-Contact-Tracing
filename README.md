@@ -1,4 +1,4 @@
-# civichack2020
+# Quarantine and Contact Tracing (QCT)
 
 http://civichack.or.kr/?page=idea&mode=view&tno=1
 
